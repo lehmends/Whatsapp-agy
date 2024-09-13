@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WhatsApp AGY 1.0\n"
+"PO-Revision-Date: 2024-07-28 12:00+0000\n"
+"Last-Translator: Lennon Oliveira <contato@agenciayes.com.br>\n"
+"Language-Team: English <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Domain: whatsapp-footer-plugin\n"
+
+#: whatsapp-footer-plugin.php:11
+msgid "Configurações do WhatsApp AGY"
+msgstr "WhatsApp AGY Settings"
+
+#: whatsapp-footer-plugin.php:12
+msgid "Número do WhatsApp"
+msgstr "WhatsApp Number"
+
+#: whatsapp-footer-plugin.php:13
+msgid "Digite o código do seu país Ex: 55"
+msgstr "Enter your country code e.g., 55"
+
+#: whatsapp-footer-plugin.php:24
+msgid "Número do WhatsApp"
+msgstr "WhatsApp Number"
+
+#: whatsapp-footer-plugin.php:25
+msgid "Digite o código do seu país Ex: 55"
+msgstr "Enter your country code e.g., 55"
+
+#: whatsapp-footer-plugin.php:36
+msgid "WhatsApp AGY"
+msgstr "WhatsApp AGY""
+
+#: whatsapp-footer-plugin.php:37
+msgid "Adiciona um ícone do WhatsApp no rodapé do site com um número editável."
+msgstr "Adds a WhatsApp icon to the site footer with an editable number."
